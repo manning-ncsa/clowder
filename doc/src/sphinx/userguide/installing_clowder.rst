@@ -104,7 +104,7 @@ Optionally, edit these properties to your liking:
 
 .. warning::
 
-   If you renamed the base clowder folder to something else, like `kitten`, then the ``--netowrk`` parameter must be changed to ``--network kitten_clowder``.
+   If you renamed the base clowder folder to something else, like `kitten`, then the ``--network`` parameter must be changed to ``--network kitten_clowder``.
 
 All done! You should be able to login to your new account, create new Spaces & Datasets and upload many different types of data. 
 
